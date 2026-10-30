@@ -1,5 +1,13 @@
 {
-  "video": null,
-  "title": null,
-  "date": null
+  "video": "episodes/20261030-41036991788.mp4",
+  "title": "Uçan Trenin Sırrı",
+  "date": "2026-10-30",
+  "episodes": [
+    {
+      "video": "episodes/20261030-41036991788.mp4",
+      "title": "Uçan Trenin Sırrı",
+      "date": "2026-10-30",
+      "run": "41036991788"
+    }
+  ]
 }
