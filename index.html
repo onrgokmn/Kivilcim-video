@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kıvılcım Takımı | Video İzleme</title>
+<style>
+:root{color-scheme:dark;font-family:system-ui,-apple-system,sans-serif;background:#090e1b;color:#f5f7ff}
+*{box-sizing:border-box}body{margin:0;min-height:100vh;background:radial-gradient(ellipse at top,#22315b 0%,#090e1b 70%)}
+main{max-width:1000px;margin:auto;padding:24px 16px 70px}
+header{display:flex;align-items:center;gap:14px;margin:0 0 26px}
+.logo{display:grid;place-items:center;width:52px;height:52px;border-radius:18px;background:#69efcf;color:#081526;font-size:30px}
+h1{font-size:clamp(23px,5vw,34px);margin:0}p{color:#aebcd5;line-height:1.6}
+.player{background:#0d1529;border:1px solid #34405a;border-radius:24px;padding:20px}
+video{display:block;max-height:76vh;aspect-ratio:9/16;max-width:100%;width:auto;margin:auto;border-radius:15px;background:#03050d}
+.info{margin-top:20px;display:flex;justify-content:space-between;gap:12px;align-items:center}
+a{color:#8df4e0}button{border:0;border-radius:14px;padding:12px;background:#69efcf;color:#071225;font-weight:700;cursor:pointer}
+aside{margin-top:24px;padding:15px;border:1px solid #34405a;border-radius:14px;background:#111b31}
+small{color:#b0bfd8}.hidden{display:none}
+</style></head><body><main>
+<header><span class="logo">⚡</span><div><h1>Kıvılcım Takımı</h1><p style="margin:3px 0">Özgün süper kahraman hikâyeleri · 9:16 video izleme</p></div></header>
+<section class="player">
+<h2 id="title">Video izleme alanı</h2>
+<video id="video" controls playsinline preload="metadata" poster="poster.svg"><source src="videos/latest.mp4" type="video/mp4">Tarayıcın video oynatmayı desteklemiyor.</video>
+<div class="info"><small id="updated">Henüz yayımlanmış video yok.</small><a id="download" class="hidden" href="videos/latest.mp4" download>MP4 indir</a></div>
+</section>
+<aside><strong>Yayın kontrolü</strong><p>Bu sayfa yalnızca onaylanarak Pages'a gönderilen videoları gösterir. GitHub Actions taslakları otomatik olarak herkese açılmaz. Yayınlanan videolar herkese açık olabilir.</p><p><a href="https://github.com/onrgokmn/youtube-ai-automation/actions">GitHub üretim kayıtları</a></p></aside>
+</main>
+<script>
+fetch('manifest.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error();return r.json()}).then(m=>{
+if(!m.video)return;document.getElementById('title').textContent=m.title||'Son video';
+document.getElementById('updated').textContent=m.date?'Yüklendi: '+m.date:'İzlemeye hazır';
+document.getElementById('download').classList.remove('hidden');
+document.getElementById('video').load();
+}).catch(()=>{});
+</script></body></html>
