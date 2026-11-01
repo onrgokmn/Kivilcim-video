@@ -1,8 +1,14 @@
 {
-  "video": "episodes/20261031-41206637172.mp4",
-  "title": "Konuşan Bulutun Sırrı",
-  "date": "2026-10-31",
+  "video": "episodes/20261101-41315544241.mp4",
+  "title": "Kayıp Zamanın Sırrı",
+  "date": "2026-11-01",
   "episodes": [
+    {
+      "video": "episodes/20261101-41315544241.mp4",
+      "title": "Kayıp Zamanın Sırrı",
+      "date": "2026-11-01",
+      "run": "41315544241"
+    },
     {
       "video": "episodes/20261031-41206637172.mp4",
       "title": "Konuşan Bulutun Sırrı",
