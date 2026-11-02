@@ -1,8 +1,14 @@
 {
-  "video": "episodes/20261101-41315544241.mp4",
-  "title": "Kayıp Zamanın Sırrı",
-  "date": "2026-11-01",
+  "video": "episodes/20261102-41488137400.mp4",
+  "title": "Tersine Akan Gölge",
+  "date": "2026-11-02",
   "episodes": [
+    {
+      "video": "episodes/20261102-41488137400.mp4",
+      "title": "Tersine Akan Gölge",
+      "date": "2026-11-02",
+      "run": "41488137400"
+    },
     {
       "video": "episodes/20261101-41315544241.mp4",
       "title": "Kayıp Zamanın Sırrı",
