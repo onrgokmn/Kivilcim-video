@@ -1,8 +1,14 @@
 {
-  "video": "episodes/20261102-41488137400.mp4",
-  "title": "Tersine Akan Gölge",
-  "date": "2026-11-02",
+  "video": "episodes/20261103-41661645705.mp4",
+  "title": "Kıvılcım Takımı: Uçan Kütüphane",
+  "date": "2026-11-03",
   "episodes": [
+    {
+      "video": "episodes/20261103-41661645705.mp4",
+      "title": "Kıvılcım Takımı: Uçan Kütüphane",
+      "date": "2026-11-03",
+      "run": "41661645705"
+    },
     {
       "video": "episodes/20261102-41488137400.mp4",
       "title": "Tersine Akan Gölge",
