@@ -1,8 +1,14 @@
 {
-  "video": "episodes/20261103-41661645705.mp4",
-  "title": "Kıvılcım Takımı: Uçan Kütüphane",
-  "date": "2026-11-03",
+  "video": "episodes/20261104-41858057410.mp4",
+  "title": "Minik Robotların Şenliği",
+  "date": "2026-11-04",
   "episodes": [
+    {
+      "video": "episodes/20261104-41858057410.mp4",
+      "title": "Minik Robotların Şenliği",
+      "date": "2026-11-04",
+      "run": "41858057410"
+    },
     {
       "video": "episodes/20261103-41661645705.mp4",
       "title": "Kıvılcım Takımı: Uçan Kütüphane",
