@@ -1,8 +1,14 @@
 {
-  "video": "episodes/20261106-42239991546.mp4",
-  "title": "Uçan Trenin Sırrı",
-  "date": "2026-11-06",
+  "video": "episodes/20261107-42379941672.mp4",
+  "title": "Kıvılcım Takımı: Konuşan Bulutun Sırrı",
+  "date": "2026-11-07",
   "episodes": [
+    {
+      "video": "episodes/20261107-42379941672.mp4",
+      "title": "Kıvılcım Takımı: Konuşan Bulutun Sırrı",
+      "date": "2026-11-07",
+      "run": "42379941672"
+    },
     {
       "video": "episodes/20261106-42239991546.mp4",
       "title": "Uçan Trenin Sırrı",
