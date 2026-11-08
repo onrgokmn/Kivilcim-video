@@ -1,8 +1,14 @@
 {
-  "video": "episodes/20261107-42379941672.mp4",
-  "title": "Kıvılcım Takımı: Konuşan Bulutun Sırrı",
-  "date": "2026-11-07",
+  "video": "episodes/20261108-42489293162.mp4",
+  "title": "Kayıp Zaman Kapsülü",
+  "date": "2026-11-08",
   "episodes": [
+    {
+      "video": "episodes/20261108-42489293162.mp4",
+      "title": "Kayıp Zaman Kapsülü",
+      "date": "2026-11-08",
+      "run": "42489293162"
+    },
     {
       "video": "episodes/20261107-42379941672.mp4",
       "title": "Kıvılcım Takımı: Konuşan Bulutun Sırrı",
