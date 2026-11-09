@@ -1,8 +1,14 @@
 {
-  "video": "episodes/20261108-42489293162.mp4",
-  "title": "Kayıp Zaman Kapsülü",
-  "date": "2026-11-08",
+  "video": "episodes/20261109-42665997599.mp4",
+  "title": "Işıkşehir'in Ters Sokağı",
+  "date": "2026-11-09",
   "episodes": [
+    {
+      "video": "episodes/20261109-42665997599.mp4",
+      "title": "Işıkşehir'in Ters Sokağı",
+      "date": "2026-11-09",
+      "run": "42665997599"
+    },
     {
       "video": "episodes/20261108-42489293162.mp4",
       "title": "Kayıp Zaman Kapsülü",
