@@ -1,8 +1,14 @@
 {
-  "video": "episodes/20261109-42665997599.mp4",
-  "title": "Işıkşehir'in Ters Sokağı",
-  "date": "2026-11-09",
+  "video": "episodes/20261110-42846284504.mp4",
+  "title": "Kıvılcım Takımı: Renk Avcıları",
+  "date": "2026-11-10",
   "episodes": [
+    {
+      "video": "episodes/20261110-42846284504.mp4",
+      "title": "Kıvılcım Takımı: Renk Avcıları",
+      "date": "2026-11-10",
+      "run": "42846284504"
+    },
     {
       "video": "episodes/20261109-42665997599.mp4",
       "title": "Işıkşehir'in Ters Sokağı",
