@@ -1,8 +1,14 @@
 {
-  "video": "episodes/20261110-42846284504.mp4",
-  "title": "Kıvılcım Takımı: Renk Avcıları",
-  "date": "2026-11-10",
+  "video": "episodes/20261112-43253767368.mp4",
+  "title": "Gökyüzü Sürprizi",
+  "date": "2026-11-12",
   "episodes": [
+    {
+      "video": "episodes/20261112-43253767368.mp4",
+      "title": "Gökyüzü Sürprizi",
+      "date": "2026-11-12",
+      "run": "43253767368"
+    },
     {
       "video": "episodes/20261110-42846284504.mp4",
       "title": "Kıvılcım Takımı: Renk Avcıları",
