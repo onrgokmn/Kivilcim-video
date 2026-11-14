@@ -1,8 +1,14 @@
 {
-  "video": "episodes/20261112-43253767368.mp4",
-  "title": "Gökyüzü Sürprizi",
-  "date": "2026-11-12",
+  "video": "episodes/20261114-43603590323.mp4",
+  "title": "Kayan Yıldızın Sırrı",
+  "date": "2026-11-14",
   "episodes": [
+    {
+      "video": "episodes/20261114-43603590323.mp4",
+      "title": "Kayan Yıldızın Sırrı",
+      "date": "2026-11-14",
+      "run": "43603590323"
+    },
     {
       "video": "episodes/20261112-43253767368.mp4",
       "title": "Gökyüzü Sürprizi",
