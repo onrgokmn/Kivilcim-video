@@ -1,8 +1,14 @@
 {
-  "video": "episodes/20261114-43603590323.mp4",
-  "title": "Kayan Yıldızın Sırrı",
-  "date": "2026-11-14",
+  "video": "episodes/20261115-43726343375.mp4",
+  "title": "Kıvılcım Takımı: Zaman Kapsülü",
+  "date": "2026-11-15",
   "episodes": [
+    {
+      "video": "episodes/20261115-43726343375.mp4",
+      "title": "Kıvılcım Takımı: Zaman Kapsülü",
+      "date": "2026-11-15",
+      "run": "43726343375"
+    },
     {
       "video": "episodes/20261114-43603590323.mp4",
       "title": "Kayan Yıldızın Sırrı",
