@@ -1,8 +1,14 @@
 {
-  "video": "episodes/20261115-43726343375.mp4",
-  "title": "Kıvılcım Takımı: Zaman Kapsülü",
-  "date": "2026-11-15",
+  "video": "episodes/20261117-44131139229.mp4",
+  "title": "Uçan Parkın Sırrı",
+  "date": "2026-11-17",
   "episodes": [
+    {
+      "video": "episodes/20261117-44131139229.mp4",
+      "title": "Uçan Parkın Sırrı",
+      "date": "2026-11-17",
+      "run": "44131139229"
+    },
     {
       "video": "episodes/20261115-43726343375.mp4",
       "title": "Kıvılcım Takımı: Zaman Kapsülü",
