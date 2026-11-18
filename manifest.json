@@ -1,8 +1,14 @@
 {
-  "video": "episodes/20261117-44131139229.mp4",
-  "title": "Uçan Parkın Sırrı",
-  "date": "2026-11-17",
+  "video": "episodes/20261118-44347738829.mp4",
+  "title": "Minik Robotların Dansı",
+  "date": "2026-11-18",
   "episodes": [
+    {
+      "video": "episodes/20261118-44347738829.mp4",
+      "title": "Minik Robotların Dansı",
+      "date": "2026-11-18",
+      "run": "44347738829"
+    },
     {
       "video": "episodes/20261117-44131139229.mp4",
       "title": "Uçan Parkın Sırrı",
