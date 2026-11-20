@@ -1,8 +1,14 @@
 {
-  "video": "episodes/20261118-44347738829.mp4",
-  "title": "Minik Robotların Dansı",
-  "date": "2026-11-18",
+  "video": "episodes/20261120-44770894143.mp4",
+  "title": "Işıkşehir'in Uçan Tren Sürprizi",
+  "date": "2026-11-20",
   "episodes": [
+    {
+      "video": "episodes/20261120-44770894143.mp4",
+      "title": "Işıkşehir'in Uçan Tren Sürprizi",
+      "date": "2026-11-20",
+      "run": "44770894143"
+    },
     {
       "video": "episodes/20261118-44347738829.mp4",
       "title": "Minik Robotların Dansı",
